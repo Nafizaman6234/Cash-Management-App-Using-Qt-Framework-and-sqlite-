@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/Resources">
+        <file>Resources/cash_welcome.jpg</file>
+        <file>Resources/Homepage_Inventory.jpg</file>
+        <file>Database/cash_management_database.db</file>
+    </qresource>
+    <qresource prefix="/Database"/>
+    <qresource prefix="/"/>
+</RCC>
